@@ -1,0 +1,38 @@
+body{
+    background-color:lightgreen;
+    font-family:cursive;
+}
+#container{
+    background-color:honeydew;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+#container img{
+    margin: auto;
+    width: 150px;
+    float: none;
+    display:block;
+}
+#head{
+    background-color:gray;
+    color:aliceblue;
+    text-align: center;
+}
+#main{
+    width: 600px;
+    float:left ;
+    padding:20px
+
+}
+#info{
+    width: 180px;
+    float:right;
+    padding: 20px
+}
+#footer{
+    clear: both;
+    padding: 0%;
+    background-color: rgb(81, 240, 60);
+    color: black;
+}
